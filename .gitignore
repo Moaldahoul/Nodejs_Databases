@@ -3,7 +3,6 @@
 # dependencies
 /MySQL/node_modules
 
-#MySQL
-/config-secret.json
-/package.json
-/package-lock.json
+/MySQL/config-secret.json
+/MySQL/package.json
+/MySQL/package-lock.json
